@@ -1,4 +1,4 @@
-《Crack The Coding Interview》C++实现与分析
+《Crack The Coding Interview》第五版 C++实现与分析
 ==
 
 所有的解决方案都在牛客网在线测试：[程序员面试金典](http://www.nowcoder.com/ta/cracking-the-coding-interview)。
